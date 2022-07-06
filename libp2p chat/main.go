@@ -160,7 +160,7 @@ func startPeer(ctx context.Context, h host.Host, streamHandler network.StreamHan
 		return
 	}
 
-	log.Printf("Run './chat -d /ip4/127.0.0.1/tcp/%v/p2p/%s' onbaşka bir konsolda.\n", port, h.ID().Pretty())
+	log.Printf("Run './main -d /ip4/127.0.0.1/tcp/%v/p2p/%s' başka bir konsoldan erişiniz.\n", port, h.ID().Pretty())
 	log.Println("127.0.0.1'i genel IP ile de değiştirebilirsiniz.")
 	log.Println("Gelen bağlantı bekleniyor")
 	log.Println()
