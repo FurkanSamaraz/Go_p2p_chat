@@ -1,7 +1,7 @@
 # Go_p2p_chat_TR
 
+![Ekran-Kayd-2022-07-08-173319](https://user-images.githubusercontent.com/92402372/178014809-8db440c0-0f23-48c2-a7d8-965046da657c.gif)
 
-![U7vUgx_11f8e87a16a94656e29a66c938ebf1d4_00-00-00_00-00-41_2](https://user-images.githubusercontent.com/92402372/178014071-d4b70d1e-f4aa-42da-9c1d-65949f8635b3.gif)
 
 1- Build Alınız.
 > go build
